@@ -1,0 +1,19 @@
+1- boa tarde, vou explicar porque eu gostei muito de fazer o projeto de restaurante em java, digo isso pois é extramamente intuitivo e hoje vou mostrar que vale a pena escrever um pouco mais.
+
+2- primeiro lugar, devemos ter o olhar critico para saber quais objetos devemos criar, saber seus atributos e suas funções.
+
+3- aqui criamos o objeto Restaurante, primeiro colocamos seus atributos e seu construtor
+
+4- assim ja podemos escrever os getters e os setters e criar as funções do objeto
+
+5- agora que ja entendemos como são os objetos, vamos ver como a gente armazena elas,
+	para isso, vou criar também um objeto de lanche 
+
+6- sabendo que faz sentido um restaurante possuir vários lanches, vamos adcionar um novo 
+atributo no objeto restaurante chamado cardapio, que vai ser um ArrayList de lanche, 
+
+7- agora usando a instancia do array de lanche, podemos criar duas novas funções para nosso restaurante, 
+adcionar e remover lanches do cardapio, e olha como é intuitivo.
+
+ 
+
